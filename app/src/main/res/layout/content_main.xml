@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnShowNotificationFirst"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/fab_margin"
+        android:background="@color/colorPrimaryDark"
+        android:padding="@dimen/fab_margin"
+        android:text="Show First Notification"
+        android:textColor="@android:color/white" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnShowNotificationSec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/fab_margin"
+        android:background="@color/colorPrimaryDark"
+        android:padding="@dimen/fab_margin"
+        android:text="Show Second Notification"
+        android:textColor="@android:color/white" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnShowChannelOneSetting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/fab_margin"
+        android:background="@color/colorPrimaryDark"
+        android:padding="@dimen/fab_margin"
+        android:text="Show Channel One settings"
+        android:textColor="@android:color/white" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnShowChannelTwoSetting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/fab_margin"
+        android:background="@color/colorPrimaryDark"
+        android:padding="@dimen/fab_margin"
+        android:text="Show Channel Two settings"
+        android:textColor="@android:color/white" />
+</LinearLayout>

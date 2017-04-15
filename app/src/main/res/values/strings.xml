@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidONotificationChannel</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_title_notification_one">First Notification</string>
+    <string name="str_body_notification_one">Chanel 1:This is First notification content</string>
+    <string name="str_title_notification_two">Second Notification</string>
+    <string name="str_body_notification_two">Chanel 1:This is Second notification content</string>
+
+    <string name="str_body_notification_three">Chanel 2:This is First notification content</string>
+    <string name="str_body_notification_four">Chanel 2:This is Second notification content</string>
+</resources>
